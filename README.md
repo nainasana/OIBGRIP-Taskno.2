@@ -6,7 +6,7 @@ This is my personal portfolio which I'll be working on even in future also.
 
 This repo is created for the Oasis Infobyte internship submission.
 
-Tech skills: HTML CSS JAVASCRIPT REACT PHP
+Tech skills: HTML CSS JAVASCRIPT NODE PHP
 
 Feel free to check out the new features and designes and projects I add to my portfolio from time to time.
 
