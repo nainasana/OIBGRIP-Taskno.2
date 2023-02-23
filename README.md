@@ -1,6 +1,6 @@
 # OIBGRIP-Taskno.2
 
-## Level-1 Task-2 Portrfolio
+## Level-1 Task-2 Portfolio
 
 This is my personal portfolio which I'll be working on even in future also.
 
