@@ -1,0 +1,52 @@
+#wrapper {
+    display: flex;
+    justify-content: center;
+    /* center horizontally */
+    align-items: center;
+    /* center vertically */
+}
+.name{
+    text-align: right;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    padding-right: 5rem;
+}
+body {
+    background: linear-gradient(to top, rgba(177, 187, 193, 0.93) 100%, whitesmoke 100%);
+}
+.heading {
+    text-align: center;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2.2rem;
+    text-decoration-line: underline;
+    text-underline-offset: 4px;
+}
+#my-canvas {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+    border-radius:1.8rem;
+}
+
+.button {
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px;
+    display: inline-block;
+    background-color: #00143b;
+    border-radius: 15px;
+    color: white;
+}
+
+.controls-button {
+    float: left;
+}
