@@ -11,3 +11,4 @@ Tech skills: HTML CSS JAVASCRIPT NODEJS PHP
 Feel free to check out the new features and designes and projects I add to my portfolio from time to time.
 
 I thank [Oasis Infobyte](oasisinfobyte.io) for giving me this opportunity.
+## Connect with me in here👉 [NainaSana](https://www.linkedin.com/in/nainasana-shaik/)
