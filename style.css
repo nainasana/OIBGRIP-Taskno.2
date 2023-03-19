@@ -409,7 +409,7 @@ section .title::after{
     background: #fff;
 }
 .projects .title::after{
-    background: rgb(29,29,29);
+    background: rgb(19,19,19);
     content: "what i made";
 }
 .projects .pro-content{
